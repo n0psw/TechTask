@@ -40,7 +40,6 @@ class CinemaTicketSystem:
             return True
         return False
 
-ю
 def main():
     cinemaSystem = CinemaTicketSystem()
 
